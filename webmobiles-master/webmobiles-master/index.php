@@ -328,7 +328,7 @@
 					<img src="demos/portfolio_01.jpg" alt="" class="img-responsive">
 					<div class="magnifier">
 						<div class="buttons">
-							<a class="st btn btn-default" rel="bookmark" href="portfolio-single-sidebar.html">View project</a>
+							<a class="st btn btn-default" rel="bookmark" href="index.php">View project</a>
                             <h3>Best Apple Mockups</h3>
 						</div><!-- end buttons -->
 					</div><!-- end magnifier -->
@@ -340,7 +340,7 @@
 					<img src="demos/portfolio_02.jpg" alt="" class="img-responsive">
 					<div class="magnifier">
 						<div class="buttons">
-							<a class="st btn btn-default" rel="bookmark" href="portfolio-single-sidebar.html">View project</a>
+							<a class="st btn btn-default" rel="bookmark" href="index.php">View project</a>
                             <h3>Create an amazing website</h3>
 						</div><!-- end buttons -->
 					</div><!-- end magnifier -->
@@ -352,7 +352,7 @@
 					<img src="demos/portfolio_03.jpg" alt="" class="img-responsive">
 					<div class="magnifier">
 						<div class="buttons">
-							<a class="st btn btn-default" rel="bookmark" href="portfolio-single-sidebar.html">View project</a>
+							<a class="st btn btn-default" rel="bookmark" href="index.php">View project</a>
                             <h3>Powerful Site Template</h3>
 						</div><!-- end buttons -->
 					</div><!-- end magnifier -->
@@ -364,7 +364,7 @@
 					<img src="demos/portfolio_04.jpg" alt="" class="img-responsive">
 					<div class="magnifier">
 						<div class="buttons">
-							<a class="st btn btn-default" rel="bookmark" href="portfolio-single-sidebar.html">View project</a>
+							<a class="st btn btn-default" rel="bookmark" href="index.php">View project</a>
                             <h3>Responsive and Retina Display</h3>
 						</div><!-- end buttons -->
 					</div><!-- end magnifier -->
@@ -374,7 +374,7 @@
 		<div class="clearfix"></div>
             
 		<div class="buttons padding-top text-center">
-			<a href="portfolio-masonry.html" class="btn btn-primary btn-lg" title="">View All Projects</a>
+			<a href="index.php" class="btn btn-primary btn-lg" title="">View All Projects</a>
 		</div>
     </section><!-- end white-wrapper -->
     
