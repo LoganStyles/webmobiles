@@ -123,7 +123,7 @@
             
         	<div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
             	<div class="wow fadeInRight margin-top">
-					<img class="" src="images/webmobile2.png" alt="">
+					<img class="" src="images/webmobile22.png" alt="">
                 </div>
 			</div><!-- end col-lg-6 -->
 		</div><!-- end container -->

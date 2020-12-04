@@ -75,7 +75,7 @@
             
         	<div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
             	<div class="wow fadeInRight margin-top img-responsive">
-					<img class="" src="images/mobileweb.jpg" alt="">
+					<img class="" src="images/mobileweb11.jpg" alt="">
                 </div>
 			</div><!-- end col-lg-6 -->
 		</div><!-- end container -->
